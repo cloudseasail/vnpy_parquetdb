@@ -29,9 +29,9 @@ database = Database(format = 'vnpy')    # 输出格式兼容 vnpy
 |database.name|名称|是|parquetdb|
 
 ## Example
-[Partquetdb 增删改查](https://github.com/cloudseasail/vnpy_parquetdb/blob/main/example/test_parquetdb.ipynb)
-[vntrader datamanager](https://github.com/cloudseasail/vnpy_parquetdb/blob/main/example/vntrader_datamanager.py)
-[Tools: Future Bar generation from ticks](https://github.com/cloudseasail/vnpy_parquetdb/blob/main/example/future_bar_generation.ipynb)
+ 1.[Partquetdb 增删改查](https://github.com/cloudseasail/vnpy_parquetdb/blob/main/example/test_parquetdb.ipynb)
+ 2.[vntrader datamanager](https://github.com/cloudseasail/vnpy_parquetdb/blob/main/example/vntrader_datamanager.py)
+ 3.[Tools: Future Bar generation from ticks](https://github.com/cloudseasail/vnpy_parquetdb/blob/main/example/future_bar_generation.ipynb)
 
 
 
